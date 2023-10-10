@@ -5,3 +5,8 @@ les 3 commandes de push : git add
 			  git push
 
 Commande permettant de pull : git pull
+
+
+Commande permettant de créer une branche : git branch "Nom de la branche"
+
+Commande permettant de switcher d'un branche a une autre : git checkout "nom de la branche"
