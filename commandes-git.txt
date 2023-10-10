@@ -3,3 +3,5 @@ Cloner un repository = git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITOR
 les 3 commandes de push : git add
 			  git commit -m "votre message"
 			  git push
+
+Commande permettant de pull : git pull
